@@ -17,11 +17,10 @@ To sign in into your Venom wallet account the user should use a unique seed phra
 ####  How to sign in using an existing seed phrase:
 
   
-
-- **1.** Launch the extension/application and select the wallet “sign in with the seed phrase” option.
-- **2.** Enter your whole unique series of words in accordance to its sequence in the seed phrase. (The interface allows you to transfer the whole phrase automatically in one click, pasting it into any field).
-- **3.** Enter the password into the field to access your wallet. If successful, the user is signed in into the wallet account.
-- **4.** Open the extension/application to perform transactions.
+1. Launch the extension/application and select the wallet “sign in with the seed phrase” option.
+2. Enter your whole unique series of words in accordance to its sequence in the seed phrase. (The interface allows you to transfer the whole phrase automatically in one click, pasting it into any field).
+3. Enter the password into the field to access your wallet. If successful, the user is signed in into the wallet account.
+4. Open the extension/application to perform transactions.
 
   
 
@@ -35,11 +34,11 @@ To sign in into your Venom wallet account the user should use a unique seed phra
 
   
 
- - **1.** Launch the extension/application and select the wallet
+ 1. Launch the extension/application and select the wallet
    “recover from backup” option from the login page.
- - **2.** The dialog window appears. Select your generated .json file
+ 2. The dialog window appears. Select your generated .json file
    from your computer. Click “open”.
- - **3.** The seed phrase will be filled in the gap automatically and
+ 3. The seed phrase will be filled in the gap automatically and
    the user logged in.
 
   
