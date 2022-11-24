@@ -12,20 +12,15 @@ The simplest way to transfer crypto to another account via the Venom Wallet exte
 
 **Here is the guide on the transactional process in detail:**
 
- 
-
-   **1.** From the main screen of the Venom Wallet extension, make sure you
-              have selected the preferred account for the transaction to be
-              executed.   
-               **2.** Select a command to “Send”. The dialogue window will appear.  
-               **3.**   At the top of the “Send your    funds”    screen select the token which you are going to send.  
+ 1. From the main screen of the Venom Wallet extension, make sure you have selected the preferred account for the transaction to be executed.   
+ 2. Select a command to “Send”. The dialogue window will appear.  
+ 3. At the top of the “Send your    funds”    screen select the token which you are going to send.  
                
 
 > **Note!** $VENOM token is selected by default.
 
-   **4.**  In the “Receiver Address” field paste (or manually enter) the wallet
-       address of the recipient. 
-       **5.**  In the “Amount” field enter the amount of tokens to be sent. This field can contain decimals.
+ 4. In the “Receiver Address” field paste (or manually enter) the wallet address of the recipient. 
+ 5. In the “Amount” field enter the amount of tokens to be sent. This field can contain decimals.
 
   
 
@@ -34,6 +29,6 @@ The simplest way to transfer crypto to another account via the Venom Wallet exte
 > over time.
 
   
-**6.** Enter the Wallet password and click “Confirm transaction”. 
+6. Enter the Wallet password and click “Confirm transaction”. 
 
 **The completed transaction will be now displayed on the home screen of the wallet extension under the “Transactions” tab.**
