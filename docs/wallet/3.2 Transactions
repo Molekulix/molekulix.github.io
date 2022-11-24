@@ -9,11 +9,9 @@ For the user convenience a vital transactional data is always available on hand 
 
   
 
-- 1. Launch an application and log in to your account.
-
-- 2. Open the homepage of the wallet window.
-
-- 3. Click the “Transactions” button in the lower-right corner of the screen.
+1. Launch an application and log in to your account.
+2. Open the homepage of the wallet window.
+3. Click the “Transactions” button in the lower-right corner of the screen.
 
   
 
@@ -30,9 +28,8 @@ The list of the current wallet’s operational activity (such as date and time, 
 
   
 
-- 1. In the wallet explorer extension homepage, click on the“Transactions” tab, then click on the transaction field of your choice to see details.
-    
-- 2. Select “Open in explorer”.
+1. In the wallet explorer extension homepage, click on the“Transactions” tab, then click on the transaction field of your choice to see details.
+2. Select “Open in explorer”.
     
 
   
@@ -41,9 +38,8 @@ The list of the current wallet’s operational activity (such as date and time, 
 
   
 
-- 1.  Click on the “gear” icon.
-    
-- 2.  Choose to “View in the explorer”.
+1. Click on the “gear” icon.
+2. Choose to “View in the explorer”.
     
 
   
